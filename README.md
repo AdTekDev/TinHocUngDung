@@ -1,3 +1,5 @@
 # TinHocUngDung
 
+Slides - https://drive.google.com/drive/folders/1a4TOOUCI3eH2bbRsQLNsWSsnHeQO5JW_ 
+
 Exercises - https://drive.google.com/drive/u/0/folders/1xstHWpNVs0CH0vJSnlVbNHWmtnMvAifm  
